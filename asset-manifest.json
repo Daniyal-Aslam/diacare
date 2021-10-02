@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/diacare/static/css/main.eff6076d.chunk.css",
+    "main.js": "/diacare/static/js/main.ed50be5d.chunk.js",
+    "main.js.map": "/diacare/static/js/main.ed50be5d.chunk.js.map",
+    "runtime-main.js": "/diacare/static/js/runtime-main.967aa3ac.js",
+    "runtime-main.js.map": "/diacare/static/js/runtime-main.967aa3ac.js.map",
+    "static/css/2.6293a573.chunk.css": "/diacare/static/css/2.6293a573.chunk.css",
+    "static/js/2.bd04ee92.chunk.js": "/diacare/static/js/2.bd04ee92.chunk.js",
+    "static/js/2.bd04ee92.chunk.js.map": "/diacare/static/js/2.bd04ee92.chunk.js.map",
+    "static/js/3.5c9484bd.chunk.js": "/diacare/static/js/3.5c9484bd.chunk.js",
+    "static/js/3.5c9484bd.chunk.js.map": "/diacare/static/js/3.5c9484bd.chunk.js.map",
+    "index.html": "/diacare/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/diacare/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.eff6076d.chunk.css.map": "/diacare/static/css/main.eff6076d.chunk.css.map",
+    "static/js/2.bd04ee92.chunk.js.LICENSE.txt": "/diacare/static/js/2.bd04ee92.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/diacare/static/media/pricing.d8b1e664.jpg",
+    "static/media/contact.5663e14c.svg": "/diacare/static/media/contact.5663e14c.svg",
+    "static/media/practice_1.9227b5b5.png": "/diacare/static/media/practice_1.9227b5b5.png",
+    "static/media/practice_2.e8143353.png": "/diacare/static/media/practice_2.e8143353.png",
+    "static/media/practice_3.579c86b8.png": "/diacare/static/media/practice_3.579c86b8.png",
+    "static/media/practice_4.d9e0fa90.png": "/diacare/static/media/practice_4.d9e0fa90.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.967aa3ac.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.bd04ee92.chunk.js",
+    "static/css/main.eff6076d.chunk.css",
+    "static/js/main.ed50be5d.chunk.js"
+  ]
+}
