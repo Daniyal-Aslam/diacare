@@ -2,7 +2,7 @@ import React from 'react';
 import PracticeCard from './PracticeCard';
 import Headcomp from './Headcomp';
 import Header from './Header';
-import Header from './Footer';
+import Footer from './Footer';
 import Datacard from './Datacard';
 import CountrySelect from './Countryapi';
  const Home = () => {
