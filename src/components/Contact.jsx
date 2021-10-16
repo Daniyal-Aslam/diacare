@@ -1,10 +1,13 @@
 import React from 'react'
 import Headcomp from './Headcomp';
 import contact from '../images/contact.svg';
+import Footer from './Footer';
+import Header from './Header';
 
 const Contact = () => {
     return (
         <>
+        <Header/>
         <section className="contact_section">
             <Headcomp
             head="Contact page"
@@ -20,6 +23,8 @@ const Contact = () => {
                     </div>
                 </div>
             </section>
+
+        <Footer/>
         </>
     )
 }
