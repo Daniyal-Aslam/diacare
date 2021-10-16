@@ -7,6 +7,7 @@ import CountrySelect from './Countryapi';
  const Home = () => {
     return (
         <>  
+     <Header/>
         <section className="web_banner">
             <Headcomp
             head="Home page"
@@ -34,6 +35,7 @@ import CountrySelect from './Countryapi';
                     </div>
                 </div>
             </section>
+      <Footer/>
         </>
     )
 }
